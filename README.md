@@ -2,7 +2,7 @@
 
 Submitted by: **Michael Ilobi**
 
-**codepath IOS 101 prework** is an app that allows users to see a screen with three labels and a button. The screen has a background color that can changes when the button is tapped... [TODO] 
+**codepath IOS 101 prework** is an app that allows users to see a screen with three labels and a button. The screen has a background color that can changes when the button is tapped.
 
 Time spent: **2hrs** hours spent in total
 
@@ -23,7 +23,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The steps were pretty easy to follow. I wish the gifs for step 3 was more detailed but i fugured it out eventually
 
 ## License
 
